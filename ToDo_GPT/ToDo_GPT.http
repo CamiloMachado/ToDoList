@@ -1,0 +1,6 @@
+@ToDo_GPT_HostAddress = http://localhost:5263
+
+GET {{ToDo_GPT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
