@@ -1,19 +1,24 @@
-Esse projeto me foi indicado pelo ChatGPT para ser aprimorado os conhecimentos de backend, usando a linguagem C# para esse projeto.
+# :spiral_notepad: **ToDo List**
+Esse projeto foi indicado pelo ChatGPT, para ser aprimorado os conhecimentos de backend.<br/><br/>
 
-O que já foi feito:
+## :desktop_computer: **Tecnologia utilizada:**
+- C#;<br/>
+- .Net;<br/>
+- Asp.Net;<br/>
+- Entety Framework Core;<br/>
+- Pomelo;<br/>
+- MySQL.<br/><br/>
 
-Modelagem do banco de dados, usando o Entity Framework e o MySQL;\r
-Tratamento de erros global;
-Logs sendo feito em arquivo txt.
+ ## :white_check_mark: **O que já foi feito:**
+- [x]  Modelagem do banco de dados, usando o Entity Framework e o MySQL;<br/>
+- [x] Tratamento de erros global;<br/>
+- [x] Logs sendo feito em arquivo txt.<br/><br/>
 
-Em implementação:
-
- Login JWT com token;
- Testes unitários.
-
- -----------------------------------------------------------------------------------------
-
- ChatGPT
+## :pushpin: **Em implementação:**
+- [ ] Login JWT com token;<br/>
+- [ ] Testes unitários.
+<br/><br/>
+# :pencil: **Sobre o projeto:**
 
 ![1](https://github.com/user-attachments/assets/a334aa22-7de8-4f23-88b0-cbfd70f48248)
 ![2](https://github.com/user-attachments/assets/6f3d8263-0703-4780-bfb4-4127704c6e12)
