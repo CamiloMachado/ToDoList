@@ -2,7 +2,7 @@ Esse projeto me foi indicado pelo ChatGPT para ser aprimorado os conhecimentos d
 
 O que já foi feito:
 
-Modelagem do banco de dados, usando o Entity Framework e o MySQL;
+Modelagem do banco de dados, usando o Entity Framework e o MySQL;\r
 Tratamento de erros global;
 Logs sendo feito em arquivo txt.
 
